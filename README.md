@@ -1,2 +1,2 @@
 # azure-python-scripts
-Sample Azure Python Scripts
+Repository for scripts that I've created to use across Azure
