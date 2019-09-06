@@ -1,5 +1,6 @@
-# azure-python-scripts
-Repository for scripts that I've created to use across Azure
+# automation-runbooks
+Repository for sample automation runbooks in Python
+
 
 
 ## Contributing
